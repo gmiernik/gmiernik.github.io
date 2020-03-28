@@ -132,7 +132,9 @@ Gotowe!
 
 ### Podłączenie z telefonu
 
-Jeżeli wykonałeś kroki [Przygotowanie telefonu (Android)][] do spotkania to teraz uruchom aplikację [Zoom].
+Jeżeli wykonałeś kroki [Przygotowanie telefonu (Android)][] do spotkania to teraz uruchom aplikację [Zoom]. Szukaj ikony aplikacji w telefonie jak poniżej.
+
+![](images/image20.png)
 
 
 
@@ -140,7 +142,7 @@ Po uruchomieniu aplikacji powinieneś zobaczyć poniższy obraz.
 
 ![](images/image12.jpg)
 
-Pojawi się ekran z miejscem do wprowadzenia numeru spotkania oraz imion uczestników.
+Pojawi się ekran z miejscem do wprowadzenia numeru spotkania oraz imion uczestników. UWAGA! Numer przedstawiony na ekranie nie jest prawidłowym numerem spotkania. To jest tylko przykład. Właściwy numer powinieneś otrzymać od osoby zapraszającej.
 
 ![](images/image16.png)
 
