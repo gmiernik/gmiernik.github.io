@@ -100,6 +100,65 @@ Dla posiadaczy telefonów innych niż iPhone firmy Apple przygotowałem instrukc
 
    W efekcie zobaczymy poniższy ekran, z którego możemy podłączyć się już do spotkania. Kolejne kroki jak podłączyć się do spotkania znajdziesz następnym rozdziale.
 
+   ![](images/image12.jpg)
+
+   
+
 ## Jak podłączyć się do spotkania?
 
-Będzie opracowane w wkrótce ...
+W celu podłączenia się do spotkania potrzebujesz identyfikator spotkania, który składa się z cyfr. Na przykład:  386 195 8553 to identyfikator mojego pokoju spotkania. Właściwy numer spotkania otrzymacie od osoby, która Was zaprasza. Poniżej zobaczysz szczegóły podłączenia przez komputer lub telefon komórkowy.
+
+### Podłączenie z komputera
+
+Jeżeli wykonałeś kroki [Przygotowanie komputera][] do spotkania to teraz uruchom przeglądarkę internetową np. Internet Explorer i wprowadź adres: https://zoom.us/join. 
+
+![](images/image12.png)
+
+Po wprowadzeniu numeru spotkania i kliknięciu przycisku [Join] otworzy Ci się poniższe okno. Wprowadź imiona i pierwszą literę nazwiska. Następnie kliknij [Join Meeting].
+
+![](images/image13.png)
+
+Następnie możesz zobaczy okno z pytaniem czy chcesz przekazywać podczas spotkania obraz z Twojej kamery. Wybierz co ci odpowiada.
+
+![](images/image14.png)
+
+Ostatni krok potwierdza podłączenie do spotkania z przekazywaniem dźwięku przez komputer.
+
+![](images/image15.png)
+
+Gotowe!
+
+
+
+### Podłączenie z telefonu
+
+Jeżeli wykonałeś kroki [Przygotowanie telefonu (Android)][] do spotkania to teraz uruchom aplikację [Zoom].
+
+
+
+Po uruchomieniu aplikacji powinieneś zobaczyć poniższy obraz.
+
+![](images/image12.jpg)
+
+Pojawi się ekran z miejscem do wprowadzenia numeru spotkania oraz imion uczestników.
+
+![](images/image16.png)
+
+Kolejne ekrany mogą się pojawiać za pierwszym raz celem potwierdzenia zasad użytkowania oraz odblokowanie dostępu do mikrofonu i kamery. Zezwól na ten dostęp zgodnie z poniższymi ekranami.
+
+![](images/image17.png)
+
+Następnie będzie informacja, że twój telefon może poprosić o zezwolenie używania mikrofonu i kamery. Kliknij przycisk  [Got it]
+
+![](images/image18.png)
+
+Jeżeli zobaczysz zapytanie jak poniżej to kliknij [Zezwól]
+
+![](images/image19.png)
+
+Gotowe!
+
+
+
+
+
